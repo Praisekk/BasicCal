@@ -1,2 +1,4 @@
 # BasicCal
-a basic calculator python3 
+a basic calculator... 
+
+python3 
